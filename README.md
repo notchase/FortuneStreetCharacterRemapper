@@ -37,8 +37,12 @@ An Example of creating the Custom Character Ganon from SSBB over "Base Character
 
 
 Using FSCharacterRemapper
+
 -Load an Existing FS Custom Character .brres file
+
 -Select a new "Base Character" from Character Slot drop down menu
 -Save as a new .brres file
+
 -Open FortuneStreet.iso in WiiScrubber or some other tool
+
 -Replace "FS/chara/[Base].brres" with "[Custom_over_Base].brres"
