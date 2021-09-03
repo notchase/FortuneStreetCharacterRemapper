@@ -47,7 +47,7 @@ An Example of creating the Custom Character Ganon from SSBB over "Base Character
   
     -(example: ch_nt_mro_buys.chr0 -> AppealHi.chr0)
     
-    -Change G3D Node version from 9 to 11
+    -Change G3D Node version from 4 to 5
     
     -Opening up the original FitGanon00.pac and FitGanonMotionEtc.pac in BRRESViewer can be helpful to chose a good animation 
     
