@@ -272,6 +272,8 @@ namespace FortuneStreetCharacterCreator
                     }
                     this.Text = "Found " + CHR0Names.Count.ToString() + "animations";
                     setDropDowns();
+                    saveButton.Enabled = true;
+
 
                 }
                 catch (SecurityException ex)
