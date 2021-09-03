@@ -1,4 +1,4 @@
-This program is designed for making Custom Characterss in Fortune Street / Boom Street.
+This program is designed for making Custom Characters in Fortune Street / Boom Street.
 
 Custom Characters have to be placed over an existing "Base Character". 
 
